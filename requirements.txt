@@ -1,0 +1,10 @@
+trl[vllm]
+transformers
+datasets
+peft
+torch
+regex
+numpy
+pandas
+matplotlib
+seaborn
