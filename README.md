@@ -2,6 +2,8 @@
 
 Compares SFT against four GRPO reward variants (R1–R4) on grade-school math reasoning using [SmolLM2-360M](https://huggingface.co/HuggingFaceTB/SmolLM2-360M) and the [GSM8K](https://huggingface.co/datasets/openai/gsm8k) dataset. Training runs on a single A100 via Google Colab with LoRA (rank 16) and vLLM acceleration.
 
+**Full write-up:** See [report.pdf](report.pdf) for methodology, results, and analysis.
+
 ## Usage
 
 ```bash
